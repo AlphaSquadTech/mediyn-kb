@@ -190,3 +190,9 @@ nav:
     - Manage Templates: admin-settings/how-to-manage-templates.md
     - Tips & Best Practices: admin-settings/tips.md
   - FAQ: faq/overview.md
+
+extra:
+  version: "1.3.0-draft"
+  generator: false
+
+copyright: "Mediyn Knowledge Base &mdash; v1.3.0-draft"
