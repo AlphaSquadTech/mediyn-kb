@@ -1,0 +1,191 @@
+site_name: Mediyn Knowledge Base
+site_description: Your complete guide to using Mediyn — for therapists, clinics, and support staff.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Welcome & Getting Started:
+    - Overview: welcome-getting-started/overview.md
+    - About Mediyn: welcome-getting-started/about-mediyn.md
+    - Quick Start Guide: welcome-getting-started/quick-start-guide.md
+  - Signing In & Account Security:
+    - Overview: signing-in-account-security/overview.md
+    - Create a Clinic Account: signing-in-account-security/how-to-create-a-clinic-account.md
+    - Manage Your Session: signing-in-account-security/how-to-manage-your-session.md
+    - Set Up Two Step Verification: signing-in-account-security/how-to-set-up-two-step-verification.md
+    - Sign in: signing-in-account-security/how-to-sign-in.md
+    - Tips & Best Practices: signing-in-account-security/tips.md
+  - Getting Started & Setup:
+    - Overview: getting-started-setup/overview.md
+    - Check Your Progress: getting-started-setup/how-to-check-your-progress.md
+    - Complete Clinic Onboarding: getting-started-setup/how-to-complete-clinic-onboarding.md
+    - Complete Therapist Onboarding: getting-started-setup/how-to-complete-therapist-onboarding.md
+    - Invite Team Members: getting-started-setup/how-to-invite-team-members.md
+    - Tips & Best Practices: getting-started-setup/tips.md
+  - Therapist Profiles:
+    - Overview: therapist-profiles/overview.md
+    - Manage Therapist Profiles: therapist-profiles/how-to-manage-therapist-profiles.md
+    - Set Availability Templates: therapist-profiles/how-to-set-availability-templates.md
+    - Tips & Best Practices: therapist-profiles/tips.md
+  - Patient Records:
+    - Overview: patient-records/overview.md
+    - Add a New Patient: patient-records/how-to-add-a-new-patient.md
+    - Archive and Restore Patients: patient-records/how-to-archive-and-restore-patients.md
+    - Invite Patients: patient-records/how-to-invite-patients.md
+    - Manage Patient Assignments: patient-records/how-to-manage-patient-assignments.md
+    - View and Update Patients: patient-records/how-to-view-and-update-patients.md
+    - Tips & Best Practices: patient-records/tips.md
+  - Intake Forms & Consent:
+    - Overview: intake-forms-consent/overview.md
+    - Create Intake Packets: intake-forms-consent/how-to-create-intake-packets.md
+    - Manage Good Faith Estimates: intake-forms-consent/how-to-manage-good-faith-estimates.md
+    - Review Intake Responses: intake-forms-consent/how-to-review-intake-responses.md
+    - Track Consent: intake-forms-consent/how-to-track-consent.md
+    - Tips & Best Practices: intake-forms-consent/tips.md
+  - Scheduling & Sessions:
+    - Overview: appointment-session-scheduling/overview.md
+    - Manage Cancellations: appointment-session-scheduling/how-to-manage-cancellations.md
+    - Manage Sessions: appointment-session-scheduling/how-to-manage-sessions.md
+    - Schedule a Session: appointment-session-scheduling/how-to-schedule-a-session.md
+    - Set Up Recurring Sessions: appointment-session-scheduling/how-to-set-up-recurring-sessions.md
+    - Set Up Session Types: appointment-session-scheduling/how-to-set-up-session-types.md
+    - Use Online Booking: appointment-session-scheduling/how-to-use-online-booking.md
+    - Session Status Guide: appointment-session-scheduling/understanding-session-status.md
+    - Tips & Best Practices: appointment-session-scheduling/tips.md
+  - Session Recording & Uploads:
+    - Overview: session-recording-uploads/overview.md
+    - Track Processing: session-recording-uploads/how-to-track-processing.md
+    - Upload Recordings: session-recording-uploads/how-to-upload-recordings.md
+    - Tips & Best Practices: session-recording-uploads/tips.md
+  - Clinical Notes & Review:
+    - Overview: clinical-notes-review/overview.md
+    - Edit and Approve Notes: clinical-notes-review/how-to-edit-and-approve-notes.md
+    - Review Clinical Notes: clinical-notes-review/how-to-review-clinical-notes.md
+    - Tips & Best Practices: clinical-notes-review/tips.md
+  - Worksheets & Handouts:
+    - Overview: worksheets-handouts/overview.md
+    - Approve and Download: worksheets-handouts/how-to-approve-and-download.md
+    - Assign Worksheets to Patients: worksheets-handouts/how-to-assign-worksheets-to-patients.md
+    - Browse Templates: worksheets-handouts/how-to-browse-templates.md
+    - Create a Worksheet: worksheets-handouts/how-to-create-a-worksheet.md
+    - Preview and Render: worksheets-handouts/how-to-preview-and-render.md
+    - Replace a Worksheet: worksheets-handouts/how-to-replace-a-worksheet.md
+    - Tips & Best Practices: worksheets-handouts/tips.md
+  - Clinical Assessments:
+    - Overview: clinical-assessments/overview.md
+    - Administer Assessments: clinical-assessments/how-to-administer-assessments.md
+    - Manage Severity Alerts: clinical-assessments/how-to-manage-severity-alerts.md
+    - Set Up Recurring Assessments: clinical-assessments/how-to-set-up-recurring-assessments.md
+    - View Results and Scores: clinical-assessments/how-to-view-results-and-scores.md
+    - Tips & Best Practices: clinical-assessments/tips.md
+  - Secure Messaging:
+    - Overview: secure-messaging/overview.md
+    - Manage Conversations: secure-messaging/how-to-manage-conversations.md
+    - Send and Receive Messages: secure-messaging/how-to-send-and-receive-messages.md
+    - Start a Conversation: secure-messaging/how-to-start-a-conversation.md
+    - Tips & Best Practices: secure-messaging/tips.md
+  - Files & Documents:
+    - Overview: files-documents/overview.md
+    - Download Documents: files-documents/how-to-download-documents.md
+    - Upload Documents: files-documents/how-to-upload-documents.md
+    - Tips & Best Practices: files-documents/tips.md
+  - Dashboard & Search:
+    - Overview: dashboard-search/overview.md
+    - Search: dashboard-search/how-to-search.md
+    - Use the Dashboard: dashboard-search/how-to-use-the-dashboard.md
+    - Tips & Best Practices: dashboard-search/tips.md
+  - Notifications & Alerts:
+    - Overview: notifications-alerts/overview.md
+    - Manage Notifications: notifications-alerts/how-to-manage-notifications.md
+    - Use Live Updates: notifications-alerts/how-to-use-live-updates.md
+    - Tips & Best Practices: notifications-alerts/tips.md
+  - Patient Login:
+    - Overview: patient-login/overview.md
+    - How Patients Sign in: patient-login/how-patients-sign-in.md
+    - How Patients Use Biometrics: patient-login/how-patients-use-biometrics.md
+    - How Patients Use the Portal: patient-login/how-patients-use-the-portal.md
+    - Manage Patient Devices: patient-login/how-to-manage-patient-devices.md
+    - Tips & Best Practices: patient-login/tips.md
+  - Plans & Pricing:
+    - Overview: plans-pricing/overview.md
+    - Choose a Plan: plans-pricing/how-to-choose-a-plan.md
+    - Manage Your Subscription: plans-pricing/how-to-manage-your-subscription.md
+    - View Available Plans: plans-pricing/how-to-view-available-plans.md
+    - Subscription Status Guide: plans-pricing/understanding-subscription-status.md
+    - Tips & Best Practices: plans-pricing/tips.md
+  - Billing & Payments:
+    - Overview: billing-payments/overview.md
+    - Configure Billing Settings: billing-payments/how-to-configure-billing-settings.md
+    - Manage Payment Methods: billing-payments/how-to-manage-payment-methods.md
+    - View Invoices: billing-payments/how-to-view-invoices.md
+    - Tips & Best Practices: billing-payments/tips.md
+  - Session Packages:
+    - Overview: session-packages/overview.md
+    - Create Session Packages: session-packages/how-to-create-session-packages.md
+    - Manage Packages: session-packages/how-to-manage-packages.md
+    - Tips & Best Practices: session-packages/tips.md
+  - Superbills & Insurance:
+    - Overview: superbills-insurance/overview.md
+    - Generate Superbills: superbills-insurance/how-to-generate-superbills.md
+    - Render and Download: superbills-insurance/how-to-render-and-download.md
+    - Tips & Best Practices: superbills-insurance/tips.md
+  - Provider Payouts:
+    - Overview: provider-payouts/overview.md
+    - Set Up Payouts: provider-payouts/how-to-set-up-payouts.md
+    - Track Your Earnings: provider-payouts/how-to-track-your-earnings.md
+    - Tips & Best Practices: provider-payouts/tips.md
+  - Privacy & Compliance:
+    - Overview: privacy-compliance/overview.md
+    - Manage Access Recertification: privacy-compliance/how-to-manage-access-recertification.md
+    - Manage Redaction Policies: privacy-compliance/how-to-manage-redaction-policies.md
+    - View Audit Logs: privacy-compliance/how-to-view-audit-logs.md
+    - Tips & Best Practices: privacy-compliance/tips.md
+  - Integrations (EHR/EMR):
+    - Overview: integrations-ehr/overview.md
+    - Monitor Sync Status: integrations-ehr/how-to-monitor-sync-status.md
+    - Set Up Integrations: integrations-ehr/how-to-set-up-integrations.md
+    - Tips & Best Practices: integrations-ehr/tips.md
+  - Admin & Settings:
+    - Overview: admin-settings/overview.md
+    - Manage Admin Sessions: admin-settings/how-to-manage-admin-sessions.md
+    - Manage Templates: admin-settings/how-to-manage-templates.md
+    - Tips & Best Practices: admin-settings/tips.md
+  - FAQ: faq/overview.md
