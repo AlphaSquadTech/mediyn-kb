@@ -2,6 +2,8 @@
 
 After approving a worksheet, you can assign it to a patient so they can complete it on their own.
 
+![Delivered Worksheets](../images/clinic/worksheets-delivered.png)
+
 ## Assigning a Worksheet
 
 1. Open the approved worksheet you want to share.

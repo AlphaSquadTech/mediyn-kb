@@ -2,6 +2,8 @@
 
 Use your email and password to access your Mediyn account.
 
+![Security Settings](../images/clinic/settings-security.png)
+
 ## Steps
 
 1. Open the Mediyn sign-in page.

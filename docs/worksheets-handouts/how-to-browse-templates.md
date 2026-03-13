@@ -2,6 +2,8 @@
 
 Mediyn offers a catalog of worksheet templates so you can find the right fit for each patient and session.
 
+![Worksheet Templates](../images/clinic/worksheets-templates.png)
+
 ## Steps
 
 1. Open the **Worksheets** section in Mediyn.

@@ -2,6 +2,8 @@
 
 Mediyn can recommend the best worksheet template for your session and generate a personalized draft for your patient.
 
+![Active Drafts](../images/clinic/worksheets.png)
+
 ## Getting a Recommendation
 
 1. Open the session you want to create a worksheet for.

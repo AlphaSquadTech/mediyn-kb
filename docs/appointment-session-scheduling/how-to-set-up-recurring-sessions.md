@@ -2,6 +2,8 @@
 
 Create a repeating schedule that automatically generates sessions for a patient on a regular basis.
 
+![Schedule View](../images/clinic/schedule.png)
+
 ## Steps
 
 ### Creating a recurring schedule

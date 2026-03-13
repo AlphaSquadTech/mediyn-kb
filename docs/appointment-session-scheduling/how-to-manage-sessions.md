@@ -2,6 +2,8 @@
 
 View, find, and update your existing sessions in Mediyn.
 
+![Patient Sessions](../images/clinic/patient-detail-sessions.png)
+
 ## Steps
 
 ### Viewing your sessions

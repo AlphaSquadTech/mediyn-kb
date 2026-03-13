@@ -2,6 +2,8 @@
 
 Mediyn lets you offer prepaid session bundles so patients can pay upfront for a set number of sessions.
 
+![Patient Packages](../images/patient/patient-packages.png)
+
 ## What You Can Do
 
 - Create prepaid session packages for patients

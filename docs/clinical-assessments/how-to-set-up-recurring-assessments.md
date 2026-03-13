@@ -2,6 +2,8 @@
 
 Mediyn can automatically schedule assessments at regular intervals so you can track patient progress over time without manual effort.
 
+![Assessment Assignments](../images/clinic/assessments-assignments.png)
+
 ## Creating a Recurring Schedule
 
 1. Open the patient's profile.

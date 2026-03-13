@@ -2,6 +2,8 @@
 
 Add therapists to your clinic by sending email invitations through Mediyn.
 
+![Team Settings](../images/clinic/settings-team.png)
+
 ## Sending an Invitation
 
 ### Steps

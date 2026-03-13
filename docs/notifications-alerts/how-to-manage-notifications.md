@@ -2,6 +2,8 @@
 
 Mediyn sends you notifications whenever something needs your attention. Here is how to stay on top of them.
 
+![Notifications](../images/clinic/notifications.png)
+
 ## Steps
 
 1. Click the notification icon in Mediyn to open your notification feed.

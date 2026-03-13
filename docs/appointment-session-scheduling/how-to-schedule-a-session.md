@@ -2,6 +2,8 @@
 
 Create a new session for a patient with a specific date, time, and therapist.
 
+![Schedule View](../images/clinic/schedule.png)
+
 ## Steps
 
 1. Open the scheduling area in Mediyn.

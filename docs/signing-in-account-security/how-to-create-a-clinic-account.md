@@ -2,6 +2,8 @@
 
 Register your clinic or solo practice on Mediyn to start managing appointments, patients, and your team.
 
+![Security Settings](../images/clinic/settings-security.png)
+
 ## Creating a Clinic Account
 
 Use this option if you are setting up a practice with multiple therapists.

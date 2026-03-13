@@ -2,6 +2,8 @@
 
 Mediyn provides built-in privacy controls, audit trails, and compliance features to help you protect patient data and meet regulatory requirements.
 
+![Compliance Settings](../images/clinic/settings-compliance.png)
+
 ## What You Can Do
 
 - View a complete audit trail of actions taken in your practice

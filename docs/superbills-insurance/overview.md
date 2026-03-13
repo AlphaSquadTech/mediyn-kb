@@ -2,6 +2,8 @@
 
 Mediyn generates HCFA/CMS-1500 superbills so your patients can submit claims for insurance reimbursement.
 
+![Superbills](../images/clinic/billing-superbills.png)
+
 ## What You Can Do
 
 - Create superbills for completed sessions

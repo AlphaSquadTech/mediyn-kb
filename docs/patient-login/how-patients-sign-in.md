@@ -2,6 +2,8 @@
 
 Mediyn uses passwordless sign-in so patients never need to remember a password. Here is how the process works.
 
+![Patient Login](../images/patient/patient-login.png)
+
 ## First-Time Access: Invitation from the Therapist
 
 ### Steps

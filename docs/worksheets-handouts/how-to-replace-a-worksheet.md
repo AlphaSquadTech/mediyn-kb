@@ -2,6 +2,8 @@
 
 If you need to update an approved worksheet, Mediyn lets you replace it with a new version while keeping a full audit trail.
 
+![Active Drafts](../images/clinic/worksheets.png)
+
 ## Steps
 
 1. Open the session that contains the approved worksheet you want to replace.

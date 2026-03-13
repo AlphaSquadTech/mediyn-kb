@@ -2,6 +2,8 @@
 
 Find quick answers to the most common questions about using Mediyn.
 
+![Mediyn Dashboard](../images/clinic/dashboard.png)
+
 ---
 
 ## Account & Security

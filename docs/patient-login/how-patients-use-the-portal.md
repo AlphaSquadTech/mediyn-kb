@@ -2,6 +2,8 @@
 
 The Mediyn patient portal gives your patients a secure place to manage their care between sessions.
 
+![Patient Home](../images/patient/patient-home.png)
+
 ## Viewing Their Profile
 
 Patients can view and update their own contact information.

@@ -2,6 +2,8 @@
 
 Mediyn makes it easy to view, track, and manage your patients' prepaid session packages.
 
+![Patient Packages](../images/patient/patient-packages.png)
+
 ## Viewing All Packages for a Patient
 
 1. Open the patient's profile in Mediyn.

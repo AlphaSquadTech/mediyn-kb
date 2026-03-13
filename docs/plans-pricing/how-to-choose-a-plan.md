@@ -2,6 +2,8 @@
 
 When you are ready to subscribe, Mediyn walks you through selecting a plan and completing payment.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## Steps
 
 1. Sign in to Mediyn.

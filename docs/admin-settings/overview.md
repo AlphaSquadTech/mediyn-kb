@@ -2,6 +2,8 @@
 
 Mediyn gives clinic administrators tools to manage practice information, oversee sessions, and maintain control over clinical operations.
 
+![Settings](../images/clinic/settings-compliance.png)
+
 ## What You Can Do
 
 - View and update your clinic's business information

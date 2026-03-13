@@ -2,6 +2,8 @@
 
 Mediyn supports periodic access reviews so administrators can verify that every team member has the right level of access to patient data.
 
+![Compliance Settings](../images/clinic/settings-compliance.png)
+
 ## What Is Access Recertification?
 
 Access recertification is a scheduled review process. Administrators confirm that each person who has access to your practice's data still needs that access. This helps prevent unauthorized access over time as roles and team membership change.

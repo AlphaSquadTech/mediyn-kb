@@ -2,6 +2,8 @@
 
 Mediyn provides a clear view of your payout balance, recent payouts, platform fees, and any held amounts.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## Checking Your Payout Status
 
 1. Go to **Settings** in Mediyn.

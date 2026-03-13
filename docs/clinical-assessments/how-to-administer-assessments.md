@@ -2,6 +2,8 @@
 
 Mediyn makes it easy to assign clinical screeners to your patients, whether as a one-time check-in or based on a smart recommendation.
 
+![Assessment Assignments](../images/clinic/assessments-assignments.png)
+
 ## Getting Assessment Recommendations
 
 1. Open the session for the patient you want to assess.

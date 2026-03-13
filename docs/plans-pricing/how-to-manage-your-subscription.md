@@ -2,6 +2,8 @@
 
 You can upgrade, downgrade, adjust seats, cancel, or reactivate your Mediyn subscription at any time.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## Changing Your Plan
 
 ### Steps

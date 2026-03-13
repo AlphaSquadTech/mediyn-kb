@@ -2,6 +2,8 @@
 
 Mediyn makes it easy to upload files securely and organize them by patient, session, and category.
 
+![Documents](../images/clinic/documents.png)
+
 ## Steps
 
 1. Go to the **Documents** section in Mediyn.

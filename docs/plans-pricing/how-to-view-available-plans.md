@@ -2,6 +2,8 @@
 
 You can browse all Mediyn subscription plans to find the right one for your practice.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## Steps
 
 1. Go to the Mediyn pricing page. You do not need to be signed in to view plans.

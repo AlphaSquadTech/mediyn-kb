@@ -2,6 +2,8 @@
 
 Keep your Mediyn session active while you work and sign out securely when you are done.
 
+![Security Settings](../images/clinic/settings-security.png)
+
 ## Refreshing Your Session
 
 Your session stays active while you use Mediyn. The platform refreshes it in the background automatically.

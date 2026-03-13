@@ -2,6 +2,8 @@
 
 Let patients book sessions directly from your public booking page.
 
+![Online Booking Settings](../images/clinic/settings-booking.png)
+
 ## Steps
 
 ### Setting up your booking page

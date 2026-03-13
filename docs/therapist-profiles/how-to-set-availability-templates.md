@@ -2,6 +2,8 @@
 
 Define your recurring weekly schedule in Mediyn so patients and administrators know when you are available.
 
+![Availability Settings](../images/clinic/settings-availability.png)
+
 ## Steps
 
 1. Sign in to your Mediyn account.

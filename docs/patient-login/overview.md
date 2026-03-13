@@ -2,6 +2,8 @@
 
 Mediyn lets your patients sign in securely without a password using magic links and device biometrics.
 
+![Patient Login](../images/patient/patient-login.png)
+
 ## What You Can Do
 
 - Send patients a magic link invitation to access Mediyn

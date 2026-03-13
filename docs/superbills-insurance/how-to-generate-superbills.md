@@ -2,6 +2,8 @@
 
 Mediyn creates superbills for completed sessions and automatically fills in provider and patient information.
 
+![Superbills](../images/clinic/billing-superbills.png)
+
 ## Steps
 
 1. Open the session you want to create a superbill for.

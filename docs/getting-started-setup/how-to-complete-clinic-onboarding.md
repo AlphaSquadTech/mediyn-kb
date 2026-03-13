@@ -2,6 +2,8 @@
 
 Set up your clinic workspace in Mediyn so your team can start managing patients and appointments.
 
+![Dashboard](../images/clinic/dashboard.png)
+
 ## Steps
 
 1. Sign in to your clinic admin account.

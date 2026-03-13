@@ -2,6 +2,8 @@
 
 Mediyn gives you everything you need to schedule sessions, manage your availability, and let patients book online.
 
+![Session Schedule](../images/clinic/schedule.png)
+
 ## What You Can Do
 
 - Create and configure session types for your practice

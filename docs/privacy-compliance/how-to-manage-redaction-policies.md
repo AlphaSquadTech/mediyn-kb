@@ -2,6 +2,8 @@
 
 Mediyn lets you set up redaction policies to control how sensitive patient data is masked or hidden across your practice.
 
+![Compliance Settings](../images/clinic/settings-compliance.png)
+
 ## Viewing Your Redaction Policies
 
 1. Go to **Settings** or **Compliance** in Mediyn.

@@ -2,6 +2,8 @@
 
 Mediyn offers flexible subscription plans so you can choose the right fit for your solo practice or multi-therapist clinic.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## What You Can Do
 
 - Browse all available Mediyn plans and compare features

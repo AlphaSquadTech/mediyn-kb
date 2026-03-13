@@ -2,6 +2,8 @@
 
 Mediyn gives clinic administrators the ability to oversee and manage sessions at a practice-wide level, including removing sessions when necessary.
 
+![Security Settings](../images/clinic/settings-security.png)
+
 ## Removing a Single Session
 
 If you need to remove a specific session for a patient:

@@ -2,6 +2,8 @@
 
 Patients can set up fingerprint or face recognition on their mobile device for faster sign-in to Mediyn.
 
+![Patient Login](../images/patient/patient-login.png)
+
 ## Steps
 
 1. The patient signs in to Mediyn using a magic link on their mobile device.

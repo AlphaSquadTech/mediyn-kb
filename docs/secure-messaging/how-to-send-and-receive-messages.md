@@ -2,6 +2,8 @@
 
 Mediyn makes it easy to communicate securely with your patients through text messages and document attachments.
 
+![Messaging](../images/clinic/messaging.png)
+
 ## Sending a Message
 
 1. Open the conversation with the patient you want to message.

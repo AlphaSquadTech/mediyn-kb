@@ -2,6 +2,8 @@
 
 Follow these steps to set up your Mediyn account and start seeing patients.
 
+![Mediyn Dashboard](../images/clinic/dashboard.png)
+
 ## Your First-Time Setup Checklist
 
 Getting started with Mediyn takes just a few steps. Work through this list in order to make sure everything is ready.

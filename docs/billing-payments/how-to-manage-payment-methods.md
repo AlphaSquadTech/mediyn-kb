@@ -2,6 +2,8 @@
 
 Mediyn lets you save payment methods for your patients so you can collect session fees quickly and securely.
 
+![Patient Payment Methods](../images/patient/patient-payment-methods.png)
+
 ## Adding a Payment Method
 
 1. Open the patient's profile in Mediyn.

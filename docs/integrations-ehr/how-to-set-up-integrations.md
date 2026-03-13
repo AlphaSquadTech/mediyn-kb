@@ -2,6 +2,8 @@
 
 Mediyn lets you connect your EHR/EMR system so patient data stays synchronized across platforms.
 
+![Integrations](../images/clinic/settings-integrations.png)
+
 ## Steps
 
 1. Go to **Settings** in Mediyn.

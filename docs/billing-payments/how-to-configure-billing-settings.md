@@ -2,6 +2,8 @@
 
 Mediyn lets clinic administrators customize how billing and invoicing work for your practice.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## Steps
 
 1. Go to **Settings** in Mediyn.

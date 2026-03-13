@@ -2,6 +2,8 @@
 
 Assign one or more therapists to a patient in Mediyn so the right clinicians have access to the right records.
 
+![Patient Detail](../images/clinic/patient-detail.png)
+
 ## Steps
 
 1. Sign in to your Mediyn clinic admin account.

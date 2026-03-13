@@ -2,6 +2,8 @@
 
 Give patients access to the Mediyn patient portal so they can manage their own appointments and information.
 
+![Patients List](../images/clinic/patients.png)
+
 ## Sending a Portal Invitation When Creating a Patient
 
 ### Steps

@@ -2,6 +2,8 @@
 
 Monitor which consent forms each patient has signed, and collect new signatures electronically.
 
+![Patient Intake](../images/clinic/patient-detail-intake.png)
+
 ## Steps
 
 ### For patients completing consent forms

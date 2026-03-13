@@ -2,6 +2,8 @@
 
 Mediyn guides you through setting up your clinic or therapist profile so you can start seeing patients quickly.
 
+![Dashboard](../images/clinic/dashboard.png)
+
 ## What You Can Do
 
 - Set up your clinic workspace with default settings

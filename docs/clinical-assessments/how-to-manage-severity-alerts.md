@@ -2,6 +2,8 @@
 
 Mediyn can notify you automatically when a patient's assessment score crosses a threshold you define, so you never miss a critical change.
 
+![Assessment Recommendations](../images/clinic/assessments-recommendations.png)
+
 ## Creating an Alert Rule
 
 1. Go to the **Assessment Alerts** settings.

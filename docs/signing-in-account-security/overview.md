@@ -2,6 +2,8 @@
 
 Mediyn provides secure sign-in and account protection features to keep your clinic data safe.
 
+![Security Settings](../images/clinic/settings-security.png)
+
 ## What You Can Do
 
 - Sign in with your email and password

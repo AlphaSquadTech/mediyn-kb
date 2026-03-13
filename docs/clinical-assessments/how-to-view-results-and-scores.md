@@ -2,6 +2,8 @@
 
 When a patient completes an assessment, Mediyn automatically scores it and provides severity levels, subscale breakdowns, and trend analysis.
 
+![Assessments](../images/clinic/assessments.png)
+
 ## Viewing a Completed Assessment
 
 1. Open the patient's profile or the assessments list.

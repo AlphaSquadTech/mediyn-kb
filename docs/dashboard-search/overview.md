@@ -2,6 +2,8 @@
 
 Your Mediyn dashboard gives you an at-a-glance summary of your day plus a powerful search to find anything fast.
 
+![Mediyn Dashboard](../images/clinic/dashboard.png)
+
 ## What You Can Do
 
 - View today's session count and pending tasks in one place

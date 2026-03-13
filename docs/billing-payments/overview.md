@@ -2,6 +2,8 @@
 
 Mediyn helps you manage invoices, collect payments, and keep your billing organized in one place.
 
+![Invoices](../images/clinic/billing-invoices.png)
+
 ## What You Can Do
 
 - View your current plan and subscription details

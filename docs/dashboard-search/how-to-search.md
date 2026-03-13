@@ -2,6 +2,8 @@
 
 Mediyn's global search helps you find patients, sessions, therapists, and documents from one place.
 
+![Dashboard with Search](../images/clinic/dashboard.png)
+
 ## Steps
 
 1. Click the search bar at the top of any Mediyn screen.

@@ -2,6 +2,8 @@
 
 Mediyn provides standardized clinical screening tools with automatic scoring, recurring schedules, and progress tracking over time.
 
+![Assessments](../images/clinic/assessments.png)
+
 ## What You Can Do
 
 - Choose from a library of validated instruments (PHQ-9, GAD-7, and more)

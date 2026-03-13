@@ -2,6 +2,8 @@
 
 Submit session content to Mediyn so clinical notes can be generated.
 
+![Upload Recording](../images/clinic/sessions-upload.png)
+
 ## Steps
 
 ### Submitting a transcript and artifacts (recommended)

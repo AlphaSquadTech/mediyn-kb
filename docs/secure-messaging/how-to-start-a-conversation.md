@@ -2,6 +2,8 @@
 
 Mediyn lets you create secure messaging threads with your patients for between-session communication.
 
+![Messaging](../images/clinic/messaging.png)
+
 ## Creating a New Conversation
 
 1. Go to the **Messages** section in Mediyn.

@@ -2,6 +2,8 @@
 
 Send a bundle of intake forms and consent documents to your patient in one step.
 
+![Patient Intake](../images/clinic/patient-detail-intake.png)
+
 ## Steps
 
 1. Navigate to your patient's profile in Mediyn.

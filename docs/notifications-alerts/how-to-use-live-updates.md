@@ -2,6 +2,8 @@
 
 Mediyn delivers real-time updates to your screen so you always have the latest information without refreshing.
 
+![Notifications](../images/clinic/notifications.png)
+
 ## Steps
 
 1. Simply keep Mediyn open in your browser or app. Live updates are enabled automatically.

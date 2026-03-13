@@ -2,6 +2,8 @@
 
 Mediyn lets you set up prepaid session bundles for your patients with flexible pricing.
 
+![Patient Packages](../images/patient/patient-packages.png)
+
 ## Steps
 
 1. Open the patient's profile in Mediyn.

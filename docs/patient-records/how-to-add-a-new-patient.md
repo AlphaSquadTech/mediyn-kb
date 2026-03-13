@@ -2,6 +2,8 @@
 
 Create a patient record in Mediyn to start tracking their care.
 
+![Patients List](../images/clinic/patients.png)
+
 ## Steps
 
 1. Sign in to your Mediyn account.

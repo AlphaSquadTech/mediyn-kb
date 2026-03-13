@@ -2,6 +2,8 @@
 
 Mediyn connects with your existing EHR/EMR system so patient data stays in sync across platforms.
 
+![Integrations](../images/clinic/settings-integrations.png)
+
 ## What You Can Do
 
 - Set up a connection between Mediyn and your EHR/EMR system

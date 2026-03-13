@@ -2,6 +2,8 @@
 
 Define the types of sessions your practice offers so you can use them when scheduling.
 
+![Session Type Settings](../images/clinic/settings-scheduling.png)
+
 ## Steps
 
 ### Creating a session type

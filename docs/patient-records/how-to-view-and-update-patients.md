@@ -2,6 +2,8 @@
 
 Find patients in Mediyn, review their details, and edit their records as needed.
 
+![Patient Detail](../images/clinic/patient-detail.png)
+
 ## Viewing Your Patient List
 
 ### Steps

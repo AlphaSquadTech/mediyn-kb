@@ -2,6 +2,8 @@
 
 Mediyn provides a secure way to upload, manage, and access clinical files and documents for your practice.
 
+![Documents](../images/clinic/documents.png)
+
 ## What You Can Do
 
 - Upload documents and link them to patients or sessions

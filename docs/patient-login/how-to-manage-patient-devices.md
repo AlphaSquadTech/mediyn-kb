@@ -2,6 +2,8 @@
 
 You can view and manage the devices a patient uses to access Mediyn. This helps you maintain security and control access.
 
+![Patient Profile](../images/patient/patient-profile.png)
+
 ## Viewing Trusted Devices
 
 ### Steps

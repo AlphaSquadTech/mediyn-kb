@@ -2,6 +2,8 @@
 
 Mediyn maintains an unchangeable audit trail so you can review every significant action taken in your practice.
 
+![Compliance Settings](../images/clinic/settings-compliance.png)
+
 ## Steps
 
 1. Go to **Settings** or **Compliance** in Mediyn.

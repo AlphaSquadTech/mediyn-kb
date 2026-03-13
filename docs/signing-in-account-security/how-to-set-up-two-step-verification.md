@@ -2,6 +2,8 @@
 
 Two-step verification adds an extra layer of security when you sign in to Mediyn.
 
+![Security Settings](../images/clinic/settings-security.png)
+
 ## Steps
 
 1. Sign in to Mediyn with your email and password.

@@ -2,6 +2,8 @@
 
 View and manage the answers your patients have submitted on their intake forms.
 
+![Patient Intake](../images/clinic/patient-detail-intake.png)
+
 ## Steps
 
 1. Open the patient's profile in Mediyn.

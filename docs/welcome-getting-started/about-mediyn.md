@@ -2,6 +2,8 @@
 
 Mediyn is a practice management platform designed specifically for therapy and mental health clinics.
 
+![Mediyn Dashboard](../images/clinic/dashboard.png)
+
 ## Built for Mental Health Practices
 
 Mediyn helps therapists and clinic teams manage every part of their day. From the moment a patient books a session to the final note and invoice, Mediyn keeps everything connected.

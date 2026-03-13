@@ -2,6 +2,8 @@
 
 Mediyn provides secure, temporary download links for accessing your stored files.
 
+![Documents](../images/clinic/documents.png)
+
 ## Steps
 
 1. Go to the **Documents** section in Mediyn.

@@ -2,6 +2,8 @@
 
 Once your worksheet draft is ready, approve it to create the final version and download the PDF.
 
+![Active Drafts](../images/clinic/worksheets.png)
+
 ## Steps
 
 1. Open the worksheet draft you want to finalize.

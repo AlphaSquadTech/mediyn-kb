@@ -2,6 +2,8 @@
 
 View, find, and update therapist details in Mediyn.
 
+![Therapist Profile](../images/clinic/settings-profile.png)
+
 ## Viewing All Therapists
 
 ### Steps

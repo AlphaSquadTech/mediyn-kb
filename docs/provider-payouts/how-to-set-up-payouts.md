@@ -2,6 +2,8 @@
 
 Mediyn guides you through a secure onboarding process to connect your payout account and start receiving earnings.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## Steps
 
 1. Go to **Settings** in Mediyn.

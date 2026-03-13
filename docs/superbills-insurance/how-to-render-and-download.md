@@ -2,6 +2,8 @@
 
 Mediyn generates professional HCFA/CMS-1500 format PDFs that your patients can submit to their insurance company.
 
+![Superbills](../images/clinic/billing-superbills.png)
+
 ## Finalizing a Superbill
 
 Before you can download a PDF, the superbill must be finalized.

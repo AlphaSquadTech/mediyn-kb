@@ -2,6 +2,8 @@
 
 Mediyn lets you check the health of your integrations and review sync history to make sure data is flowing correctly.
 
+![Integrations](../images/clinic/settings-integrations.png)
+
 ## Checking Integration Health
 
 1. Go to **Settings** and select **Integrations**.

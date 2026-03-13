@@ -2,6 +2,8 @@
 
 Set up your therapist profile in Mediyn so you can start managing your schedule and patients.
 
+![Therapist Profile](../images/clinic/settings-profile.png)
+
 ## Steps
 
 1. Sign in to your Mediyn account.

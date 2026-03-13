@@ -2,6 +2,8 @@
 
 Mediyn helps you collect patient information, track signed consents, and deliver Good Faith Estimates -- all digitally.
 
+![Patient Intake](../images/clinic/patient-detail-intake.png)
+
 ## What You Can Do
 
 - Create and send intake form packets to patients before their first visit

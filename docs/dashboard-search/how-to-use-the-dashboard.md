@@ -2,6 +2,8 @@
 
 Your dashboard is the first thing you see when you open Mediyn. It summarizes your workday at a glance.
 
+![Dashboard View](../images/clinic/dashboard.png)
+
 ## Steps
 
 1. Open Mediyn. Your dashboard loads automatically.

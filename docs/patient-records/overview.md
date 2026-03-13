@@ -2,6 +2,8 @@
 
 Mediyn helps you create, organize, and maintain patient records so you can focus on care.
 
+![Patient Records](../images/clinic/patients.png)
+
 ## What You Can Do
 
 - Add new patient records with contact and consent details

@@ -2,6 +2,8 @@
 
 Mediyn provides secure, private messaging between therapists and patients for communication between sessions.
 
+![Messaging](../images/clinic/messaging.png)
+
 ## What You Can Do
 
 - Start new conversations with your patients

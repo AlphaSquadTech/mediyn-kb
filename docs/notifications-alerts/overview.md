@@ -2,6 +2,8 @@
 
 Mediyn keeps you informed with in-app notifications and live updates so you never miss an important change.
 
+![Notifications](../images/clinic/notifications.png)
+
 ## What You Can Do
 
 - View your notification feed with all recent alerts and updates

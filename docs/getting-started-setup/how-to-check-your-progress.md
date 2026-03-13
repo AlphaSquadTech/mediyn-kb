@@ -2,6 +2,8 @@
 
 See where you are in the Mediyn setup process and find out what steps remain.
 
+![Dashboard](../images/clinic/dashboard.png)
+
 ## Steps
 
 1. Sign in to your Mediyn account.

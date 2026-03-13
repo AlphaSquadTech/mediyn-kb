@@ -2,6 +2,8 @@
 
 Mediyn helps you stay organized by providing tools to view conversation history and keep track of your messaging threads.
 
+![Messaging](../images/clinic/messaging.png)
+
 ## Viewing Conversation Details
 
 1. Open the **Messages** section.

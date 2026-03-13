@@ -2,6 +2,8 @@
 
 Mediyn lets clinic administrators view and manage therapist profiles, credentials, and statuses all in one place.
 
+![Therapist Profile](../images/clinic/settings-profile.png)
+
 ## What You Can Do
 
 - View a list of all therapists in your clinic

@@ -2,6 +2,8 @@
 
 Mediyn helps you create, customize, and share therapeutic worksheets with your patients.
 
+![Worksheets](../images/clinic/worksheets.png)
+
 ## What You Can Do
 
 - Browse a catalog of worksheet templates by therapy domain, modality, or complexity

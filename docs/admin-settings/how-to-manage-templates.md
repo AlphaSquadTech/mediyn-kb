@@ -2,6 +2,8 @@
 
 Mediyn lets clinic administrators govern worksheet templates used across your practice to ensure consistency and quality.
 
+![Template Management](../images/clinic/settings-templates.png)
+
 ## What Are Templates?
 
 Templates are predefined structures for clinical worksheets. They ensure that therapists across your practice use standardized formats for session documentation, treatment plans, and patient exercises.

@@ -2,6 +2,8 @@
 
 Mediyn handles session recordings and transcript uploads so your clinical notes can be generated automatically.
 
+![Session Upload](../images/clinic/sessions-upload.png)
+
 ## What You Can Do
 
 - Submit session transcripts and clinical artifacts after a session ends

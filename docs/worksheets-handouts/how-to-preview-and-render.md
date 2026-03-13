@@ -2,6 +2,8 @@
 
 Before finalizing a worksheet, you can preview it to check for warnings and review the de-identification report, then render a print-ready PDF.
 
+![Worksheet Templates](../images/clinic/worksheets-templates.png)
+
 ## Previewing a Draft
 
 1. Open the worksheet draft you want to review.

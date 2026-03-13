@@ -2,6 +2,8 @@
 
 Mediyn handles payment processing and payouts so therapists and clinics receive their earnings from patient payments.
 
+![Billing Settings](../images/clinic/settings-billing.png)
+
 ## What You Can Do
 
 - Connect your payout account through a guided onboarding process

@@ -2,6 +2,8 @@
 
 Mediyn is your all-in-one platform for running a therapy or mental health practice.
 
+![Mediyn Dashboard](../images/clinic/dashboard.png)
+
 ## Who Mediyn Is For
 
 Mediyn is built for the people who power therapy practices every day.

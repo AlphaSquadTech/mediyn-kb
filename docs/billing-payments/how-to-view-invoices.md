@@ -2,6 +2,8 @@
 
 Mediyn keeps a complete record of all invoices so you can review charges, track payments, and download copies.
 
+![Invoices](../images/clinic/billing-invoices.png)
+
 ## Steps
 
 1. Go to the **Billing** section in Mediyn.

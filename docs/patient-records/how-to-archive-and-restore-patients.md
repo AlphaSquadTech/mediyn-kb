@@ -2,6 +2,8 @@
 
 Archive patient records you no longer need in your active list, and restore them if circumstances change.
 
+![Patients List](../images/clinic/patients.png)
+
 ## Archiving a Patient
 
 ### Steps

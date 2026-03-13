@@ -2,6 +2,8 @@
 
 Mediyn generates clinical documentation from your session recordings and gives you full control to review, edit, and approve the final notes.
 
+![Patient Sessions](../images/clinic/patient-detail-sessions.png)
+
 ## What You Can Do
 
 - View the transcription, summary, and key insights for each session

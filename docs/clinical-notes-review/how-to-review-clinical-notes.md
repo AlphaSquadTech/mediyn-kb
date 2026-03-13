@@ -2,6 +2,8 @@
 
 View the transcription, summary, and key insights Mediyn generated for your session.
 
+![Patient Sessions](../images/clinic/patient-detail-sessions.png)
+
 ## Steps
 
 1. Open the session in Mediyn.
